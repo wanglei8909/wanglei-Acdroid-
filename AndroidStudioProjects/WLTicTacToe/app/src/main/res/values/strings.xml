@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">井字游戏</string>
+    <string name="long_app_name">王蕾制作的井字游戏</string>
+    <string name="action_settings">Setting</string>
+    <string name="continue_label">继续游戏</string>
+    <string name="new_game_label">新游戏</string>
+    <string name="about_label">关于</string>
+    <string name="ok_label">确定</string>
+    <string name="about_title">关于井字游戏</string>
+    <string name="about_text">\
+    关于这个游戏的玩法，\n\你自己玩玩就知道了！！！
+    </string>
+</resources>

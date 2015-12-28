@@ -1,0 +1,29 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.wanglei.textevent1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="WLXuexiDomes"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".DemoList"
+            android:label="WLXuexiDomes">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" /> </intent-filter>
+        </activity>
+        <activity android:name=".ForwardTarget">    </activity>
+        <activity android:name=".TestEvent1">       </activity>
+        <activity android:name=".TestEvent2">       </activity>
+        <activity android:name=".TestEvent3">       </activity>
+        <activity android:name=".TestKeyEvent">     </activity>
+        <activity android:name=".TestMotionEvent">  </activity>
+        <activity android:name=".TestMotionEvent2"> </activity>
+        <activity android:name=".Forwarding">       </activity>
+        <activity android:name=".TestMenu">         </activity>
+        <activity android:name=".AlertDialogSamples">         </activity>
+        <activity android:name=".Controls1">        </activity>
+    </application>
+
+</manifest>
