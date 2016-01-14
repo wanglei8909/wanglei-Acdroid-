@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple User Interface</string>
+    <string name="edit_meddage">输入信息</string>
+    <string name="button_send">发送</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_main">主MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+</resources>
