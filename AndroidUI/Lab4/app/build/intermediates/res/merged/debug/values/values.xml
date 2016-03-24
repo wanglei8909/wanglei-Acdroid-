@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <string name="app_name">TU-Do List</string>
+    <string name="heading_dismissable_list_view">Items:</string>
+    <string name="heading_dismissable_views">Simple Views</string>
+</resources>

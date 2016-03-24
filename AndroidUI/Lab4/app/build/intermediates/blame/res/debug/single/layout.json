@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wanglei/Desktop/androidTest/Android UI/Lab4/app/build/intermediates/res/merged/debug/layout/add_item.xml",
+        "source": "/Users/wanglei/Desktop/androidTest/Android UI/Lab4/app/src/main/res/layout/add_item.xml"
+    },
+    {
+        "merged": "/Users/wanglei/Desktop/androidTest/Android UI/Lab4/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/wanglei/Desktop/androidTest/Android UI/Lab4/app/src/main/res/layout/activity_main.xml"
+    }
+]
