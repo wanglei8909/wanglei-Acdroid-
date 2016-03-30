@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 指定启动指定的preferenceFragment 的列表项-->
+    <header android:fragment="com.example.wanglei.activitytest.PreferenceActivityTest$Prefs1Fragment"
+        android:icon="@drawable/img3"
+        android:title="程序选项设置"
+        android:summary="设置应用的相关选项"/>
+
+    <!-- 指定启动指定的preferenceFragment 的列表项-->
+    <header android:fragment=".PreferenceActivityTest$Prefs2Fragment"
+        android:icon="@drawable/img4"
+        android:title="界面选项设置"
+        />
+
+    <!-- 使用Intent启动指定ACtivity的列表项-->
+    <header android:icon="@drawable/img5"
+        android:title="使用Intent"
+        android:summary="使用Intent启动某个Activity">
+    <intent android:action="android.intent.action.VIEW"
+        android:data="http://www.crazyit.org"/>
+    </header>
+
+</Preference-headers>
