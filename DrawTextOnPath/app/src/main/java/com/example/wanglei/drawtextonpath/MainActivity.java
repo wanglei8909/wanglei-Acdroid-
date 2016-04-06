@@ -74,7 +74,6 @@ public class MainActivity extends AppCompatActivity {
             //沿着路径绘制一段文本
             paint.setStyle(Paint.Style.FILL);
             canvas.drawTextOnPath(DRAW_STR,paths[2],-10,20,paint);
-
         }
     }
 }
